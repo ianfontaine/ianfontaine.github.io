@@ -1,3 +1,52 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'PODOLOGIE'
+baseURL = "/"
+languageCode = "en-us"
+title = "PodologieMMBO"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/logo-mobiless.svg"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo.svg"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "PodologieMMBO"
+
+  [params.homepage_meta_tags]
+    meta_og_title = "PodologieMMBO"
+    meta_og_type = "website"
+
+[[menu.main]]
+    name = "Equipe"
+    url = "/equipe/"
+    weight = 1
+
+[[menu.main]]
+    name = "Pathologies"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+	name = "Soins"
+	url = "/services/"
+    weight = 3
+
+[[menu.main]]
+	name = "Tarifs"
+	url = "/fees/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+

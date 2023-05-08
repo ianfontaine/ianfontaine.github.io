@@ -1,0 +1,28 @@
+email: 'example@example.com'
+phone: 'XXXX XXX XXX'
+businessName: 'Hugo Serif'
+address: |
+  123 Some Street
+  City, State 12345
+hours:
+  - day: Lundi
+    open: 8:30am
+    close: 5:00pm
+  - day: Mardi
+    open: 8:30am
+    close: 5:00pm
+  - day: Mercredi
+    open: 8:30am
+    close: 5:00pm
+  - day: Jeudi
+    open: 8:30am
+    close: 5:00pm
+  - day: Vendredi
+    open: 8:30am
+    close: 5:00pm
+  - day: Samedi
+    open: Closed
+    close:
+  - day: Dimanche
+    open: Closed
+    close:
