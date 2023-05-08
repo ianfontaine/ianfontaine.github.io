@@ -1,7 +1,7 @@
 services:
-  - service: Soin1
-    price: 50€
-  - service: Soin2
-    price: 60€
-  - service: Soin3
-    price: 30€
+  - service: Semelles orhtopédiques
+    price: de 110€ à 145€
+  - service: Pédicurie
+    price: 37€ Soin complet 27€ Ongle incarné
+  - service: Bilan podologique 
+    price: 45€
