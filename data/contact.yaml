@@ -1,25 +1,25 @@
-email: 'example@example.com'
+email: 'ifontainepodo@gmail.com'
 phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+businessName: 'Podlogie Maison Médicale Bretagne Occidentale'
 address: |
-  123 Some Street
-  City, State 12345
+  9 chemin de Penhoat, Au sein de le Maison Médicale de Bretagne Occidentale
+  QUIMPER, 29000
 hours:
   - day: Lundi
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 19:00pm
   - day: Mardi
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 19:00pm
   - day: Mercredi
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 19:00pm
   - day: Jeudi
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 19:00pm
   - day: Vendredi
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 19:00pm
   - day: Samedi
     open: Closed
     close:
